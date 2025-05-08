@@ -2,13 +2,12 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Sagar+Singh+Bhandari....;Computer+Science+Student;Problem+Solver....;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'Ajeet....;Computer+Science+Student;Problem+Solver....;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/sagar-singh-bhandari-4176a328b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ajeet-Rana" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Sagar_Singh_Bhandari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/singhbhancv6b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sagar" height="30" width="40" /></a>  
+<a href="http://www.linkedin.com/in/ajeet-rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ajeet-Rana" height="30" width="40" /></a>
+
 </p>
 
 </br>
