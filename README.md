@@ -56,21 +56,3 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ajeet-Rana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ajeet-Rana/Ajeet-Rana/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<!--START_SECTION:waka-->
-
-<!--START_SECTION:waka-->
-
-```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
-C++      4 hrs 38 mins    █████████████████████████   100.00 %
