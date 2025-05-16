@@ -10,6 +10,7 @@
 
 </p>
 
+[![An image of @ajeetrana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajeetrana)](https://holopin.io/@ajeetrana)
 </br>
 
 # 🖥 Technical Skills: 
